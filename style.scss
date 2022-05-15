@@ -124,10 +124,10 @@ grid-area: ele17;
     display: none;
 }
 
-@media screen and (max-width: 600px) {
+// @media screen and (max-width: 600px) {
 
-    .header{
-        flex-direction: row;}
+//     .header{
+//         flex-direction: row;}
 
   
 
@@ -151,5 +151,4 @@ grid-area: ele17;
         "ele16 ele20 ele20 ele9 ele23"
               ;
         
-    gap: 0.25rem;
-}
+    gap: 0.25rem;}
