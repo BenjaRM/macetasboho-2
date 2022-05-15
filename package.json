@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-final-2",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass style.css ./css/estilos.css -w --no-source-map -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaRM/macetasboho-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaRM/macetasboho-2/issues"
+  },
+  "homepage": "https://github.com/BenjaRM/macetasboho-2#readme"
+}
